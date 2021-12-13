@@ -10,11 +10,11 @@ When the target variable we are trying to predict is continuous, as in our house
 ## Contents 
 There are 8 Supervised Machine Learning algorithms in this file path, some from scratch, others import from sklearn. Descriptions of the algorithm projects are given below:
 
-- Decision_Trees -- Importing a Classification Tree from sklearn on Diabetes data to predict health condition.
-- Gradient_Descent -- Using Gradient Descent to apply linear regression on artificial random data and compare Batch Gradient Descent with Stochastic Gradient Descent 
-- K_Nearest_Neighbors -- Using KNN from scratch on the Iris dataset, determining the optimal K for most accurate prediction 
-- Linear_Regression -- Predicting nasal length from nasal width of a kangaroo using Linear Regression from scratch 
-- Logistic_Regression -- Projecting a student's admission into grad school with Logistic Regression from scratch on Candidate data 
-- Neural_Networks -- Using a Neural Network from scratch to predict labels on MNIST dataset 
-- Perceptron -- Using the Perceptron Learning Algorithm from scratch to classify Iris data
-- Random Forest -- Using the Perceptron  Algorithm from scratch on artifically generated data for classification 
+- Decision_Trees -- Using a Classification Tree from sklearn on Diabetes data to predict health condition.
+- Gradient_Descent -- Using Gradient Descent from scratch to apply linear regression on artificial random data and compare Batch Gradient Descent with Stochastic Gradient Descent 
+- K_Nearest_Neighbors -- Usinging KNN from sklearn on dataset about Bio Features of Orthopedic Patients, finding the optimal K for most accurate prediction 
+- Linear_Regression -- Predicting rainfall using Linear Regression from sklearn
+- Logistic_Regression -- Projecting a if users will purchase after watching ads with Logistic Regression from sklearn on Candidate data 
+- Neural_Networks -- Using a Neural Network from scratch to predict labels on Fashion MNIST dataset 
+- Perceptron -- Using the Perceptron Learning Algorithm from scratch to classify artificial seperable and non-seperable data.
+- Random Forest -- Using the Random Forest Algorithm from sklearn on heart failure data for classification 
